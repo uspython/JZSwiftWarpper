@@ -1,0 +1,18 @@
+PODS:
+  - JZSwiftWarpper (0.0.1):
+    - JZSwiftWarpper/Code (= 0.0.1)
+  - JZSwiftWarpper/Code (0.0.1)
+
+DEPENDENCIES:
+  - JZSwiftWarpper (from `../`)
+
+EXTERNAL SOURCES:
+  JZSwiftWarpper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JZSwiftWarpper: c0fe97ca61d292dfb923917c2e4248b4cb09ec3a
+
+PODFILE CHECKSUM: c02fa42d38e44ae546d9c616150ac2f6af77ae8a
+
+COCOAPODS: 1.3.1

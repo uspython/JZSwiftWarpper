@@ -1,0 +1,11 @@
+framework module JZSwiftWarpper {
+  umbrella header "JZSwiftWarpper-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module JZSwiftWarpper.Swift {
+    header "JZSwiftWarpper-Swift.h"
+    requires objc
+}
